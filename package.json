@@ -1,0 +1,14 @@
+{
+  "name": "@percentage/fn-hw",
+  "version": "2.0.1",
+  "main": "index.js",
+  "type": "module",
+  "bin": "function_percentage",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "A function based hometask in Typescript, node.js."
+}
